@@ -1,0 +1,14 @@
+Empresas que implementaron sistemas reactivos.
+
+. Applied duality: 
+. Microsoft: RX es un modelo de programación reactiva creado por Microsoft
+. GitHub
+. soundCloud
+. Trello
+. TreeHouse
+. Seat Geek
+. ooVoo
+. cuchBase
+. Futurice
+. Welbe
+. Facebook
